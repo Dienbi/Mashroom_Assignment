@@ -33,7 +33,6 @@ export default function CommentCard({ name, role, quote }) {
                          before:absolute before:content-[''] before:w-full before:h-px before:bg-blue-500 before:bottom-0 before:left-0
                          before:scale-x-0 before:origin-right before:transition-transform before:duration-300
                          group-hover:before:scale-x-100 group-hover:before:origin-left">
-          <span> View more </span>
         </button>
       </div>
     </motion.div>
